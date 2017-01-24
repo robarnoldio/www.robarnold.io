@@ -4,12 +4,17 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+Opinions expressed on this site are not those of my employer, or probably of
+anyone's employer. This is my first Jekyll site other than some basic testing
+to learn the system. I've been blogging with some kind of CMS or blog tool
+for 15 years now, and I have to say the static site 'blog like a hacker' trip
+is working well for me.
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jekyll" %} /
-[minima](https://github.com/jekyll/minima)
+Privacy policy coming soon, but for now I don't collect info from you. GitHub
+is hosting these pages, so it might, but I can't see any of it. No ads here.
 
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+I'm editing this site in Atom on a MacBook Air. I use Firefox with NoScript
+and uBlock Origin. JPEG pictures you see were probably shot on my iPhone.
+
+You can learn more about me on my [LinkedIn Page][li].
+[li]: https://www.linkedin.com/in/robarnoldcissp
