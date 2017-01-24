@@ -17,4 +17,5 @@ I'm editing this site in Atom on a MacBook Air. I use Firefox with NoScript
 and uBlock Origin. JPEG pictures you see were probably shot on my iPhone.
 
 You can learn more about me on my [LinkedIn Page][li].
+
 [li]: https://www.linkedin.com/in/robarnoldcissp
