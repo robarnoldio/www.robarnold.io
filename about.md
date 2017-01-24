@@ -16,6 +16,4 @@ is hosting these pages, so it might, but I can't see any of it. No ads here.
 I'm editing this site in Atom on a MacBook Air. I use Firefox with NoScript
 and uBlock Origin. JPEG pictures you see were probably shot on my iPhone.
 
-You can learn more about me on my [LinkedIn Page][li].
-
-[li]: https://www.linkedin.com/in/robarnoldcissp
+You can learn more about me at <https://www.linkedin.com/in/robarnoldcissp>.
