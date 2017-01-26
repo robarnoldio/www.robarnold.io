@@ -1,5 +1,5 @@
 ESXi	https://my.VMware.com/en/web/VMware/evalcenter?p=free-esxi6
-(also grab the vShere client)
+(also grab the vSphere client)
 (grab your product key)
 
 pfSense	https://www.pfsense.org/download/
