@@ -1,0 +1,17 @@
+ESXi	https://my.VMware.com/en/web/VMware/evalcenter?p=free-esxi6
+(also grab the vShere client)
+(grab your product key)
+
+pfSense	https://www.pfsense.org/download/
+(grab latest amd64 ISO)
+(install 7-zip if you need to gunzip the download)
+
+kali	https://www.kali.org/downloads/
+(grab latest 64-bit)
+
+Ubuntu	http://www.ubuntu.com/download/server
+(grab latest 64-bit LTS release)
+
+Metasploitable	https://sourceforge.net/projects/metasploitable/files/Metasploitable2/metasploitable-linux-2.0.0.zip/download
+(grab metasploitable 2 and unzip it)
+(grab converter from https://my.VMware.com/group/VMware/evalcenter?p=converter)
