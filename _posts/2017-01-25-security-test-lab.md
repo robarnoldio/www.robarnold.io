@@ -13,3 +13,7 @@ I'm using a design and architecture developed by da_667 to get insight into
 IPS behavior when monitoring attack traffic. So the test range contains
 a victim VM (metasploitable 2), a Kali box to mount attacks from, a pfSense
 firewall, and Snort/Suricata and Splunk boxes.
+
+Update: got my Dell R900. For some reason I failed to get my ESXi install bits
+onto the media I thought I copied them to. Minor setback. This thing weighs
+95 pounds. o_O
