@@ -13,3 +13,5 @@ RAM: 128 GB
 Storage: 743.5 GB
 
 Ready for making serious progress tomorrow.
+
+!["screenshot"](/i/esxi.png "brag")
