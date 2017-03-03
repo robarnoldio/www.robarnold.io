@@ -17,3 +17,27 @@ I'm editing this site in Atom on a MacBook Air. I use Firefox with NoScript
 and uBlock Origin. JPEG pictures you see were probably shot on my iPhone.
 
 You can learn more about me at <https://www.linkedin.com/in/robarnoldcissp>.
+
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="988146fc-0a14-47d8-9c91-e3b96df692c1"></div>
+  <script type="text/javascript">
+    (function() {
+      var s = document.createElement('script');
+      s.type = 'text/javascript';
+      s.async = true;
+      s.src = '//cdn.youracclaim.com/assets/utilities/embed.js';
+      var o = document.getElementsByTagName('script')[0];
+      o.parentNode.insertBefore(s, o);
+      })();
+  </script>
+
+  <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="fb98e922-33e7-4a92-8fb5-eab8f116a79b"></div>
+  <script type="text/javascript">
+    (function() {
+      var s = document.createElement('script');
+      s.type = 'text/javascript';
+      s.async = true;
+      s.src = '//cdn.youracclaim.com/assets/utilities/embed.js';
+      var o = document.getElementsByTagName('script')[0];
+      o.parentNode.insertBefore(s, o);
+      })();
+  </script>
