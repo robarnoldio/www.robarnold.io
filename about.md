@@ -41,3 +41,15 @@ You can learn more about me at <https://www.linkedin.com/in/robarnoldcissp>.
       o.parentNode.insertBefore(s, o);
       })();
   </script>
+
+  <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="c12f8abb-ae82-4918-9097-fab63d2bad65"></div>
+  <script type="text/javascript">
+    (function() {
+      var s = document.createElement('script');
+      s.type = 'text/javascript';
+      s.async = true;
+      s.src = '//cdn.youracclaim.com/assets/utilities/embed.js';
+      var o = document.getElementsByTagName('script')[0];
+      o.parentNode.insertBefore(s, o);
+      })();
+  </script>
