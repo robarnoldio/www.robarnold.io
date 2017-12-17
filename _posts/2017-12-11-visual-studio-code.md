@@ -13,7 +13,7 @@ VS Code seems good at staying out of my way but also making frequent workflows e
 the git features, but it's nice to be able to stage, commit, and push without leaving the IDE. If Atom
 did that, I never found out how.
 
-VS Code is a free tool but it has huge value. Try it out if you are open to a new text editor/IDE.
+VS Code is a free tool but it has huge value. Try it out if you are open to a new text editor/IDE. :)
 
 
 [VSCode]: https://code.visualstudio.com/
