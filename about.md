@@ -18,7 +18,7 @@ Chrome and uBlock Origin. JPEG pictures you see were probably shot on my iPhone.
 
 You can learn more about me at <https://www.linkedin.com/in/robarnoldcissp>.
 
-Last update: Jan 11, 2018
+Last update: Apr 4, 2018 [removed CISM Acclaim badge]
 
 <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="988146fc-0a14-47d8-9c91-e3b96df692c1"></div>
   <script type="text/javascript">
