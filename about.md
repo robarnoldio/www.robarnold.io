@@ -32,17 +32,6 @@ Last update: Jan 11, 2018
       })();
   </script>
 
-  <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="fb98e922-33e7-4a92-8fb5-eab8f116a79b"></div>
-  <script type="text/javascript">
-    (function() {
-      var s = document.createElement('script');
-      s.type = 'text/javascript';
-      s.async = true;
-      s.src = '//cdn.youracclaim.com/assets/utilities/embed.js';
-      var o = document.getElementsByTagName('script')[0];
-      o.parentNode.insertBefore(s, o);
-      })();
-  </script>
 
   <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="c12f8abb-ae82-4918-9097-fab63d2bad65"></div>
   <script type="text/javascript">
