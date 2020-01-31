@@ -2,7 +2,7 @@
 layout: post
 title:  "Conclusions vs. Observations"
 date:   2020-01-27 16:00:00 -0600
-categories: "Thinking about IT" troubleshooting
+categories: IT troubleshooting
 ---
 
 This is the first post in a short series about troubleshooting--the skill everyone in tech
