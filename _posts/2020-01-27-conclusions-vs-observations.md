@@ -53,8 +53,7 @@ Apparently no one had read that procedure recently, so I asked if we could hang 
 Network Operations Center (NOC) to send us all details of the "war room" bridge after they open it. 
 
 Within a few minutes, we had the response team (still pulling their hair out) on the conference bridge, 
-and NOC staff riding along to assist. The team consisted of pretty much the CIO's direct reports: head of 
-applications, head of infrastructure, head of communications*, head of support services, and head 
+and NOC staff riding along to assist. The team consisted of pretty much the CIO's direct reports: head of applications, head of infrastructure, head of communications[^1], head of support services, and head 
 of security (that's me). It wasn't too clear at first that we were not under attack, so I got two of my
 senior analysts on a separate bridge to gather data, and answer questions with facts wherever possible.
 
@@ -86,6 +85,6 @@ This action (intentionally triggering a failover) called for trust on the part o
 
 We spent about 30 minutes to get to resolution. Emotions were high because of the impact, even though this was outside working hours. Without a disciplined process, users could have felt much greater impact.
 
-*Protip: "We are aware of the issue and actively working toward resolving it. Updates will follow as we gather more information." makes a pretty good template...
+[^1]: Protip: "We are aware of the issue and actively working toward resolving it. Updates will follow as we gather more information." makes a pretty good template...
 
 [cbias]: https://youarenotsosmart.com/2010/06/23/confirmation-bias/
