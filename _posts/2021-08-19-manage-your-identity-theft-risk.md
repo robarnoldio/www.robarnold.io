@@ -22,6 +22,7 @@ categories: useful
 * [Credit Report Services | Equifax][EQU] (no pin, lift the freeze by logging in, calling, or writing)
 
 You can also enroll by phone:
+
 * TransUnion: 1-888-909-8872
 * Experian: 1-888-397-3742
 * Equifax: 1-800-349-9960
