@@ -21,14 +21,16 @@ categories: useful
 
 ### The links you'll need
 
-[Credit Freeze | Freeze My Credit | TransUnion][TU] (exactly 6 digits, you pick)
-[Security Freeze Center at Experian][EXP] (5-10 digits, you can pick)
-[Credit Report Services | Equifax][EQU] (no pin, lift the freeze by logging in, calling, or writing)
+* [Credit Freeze | Freeze My Credit | TransUnion][TU] (exactly 6 digits, you pick)
+* [Security Freeze Center at Experian][EXP] (5-10 digits, you can pick)
+* [Credit Report Services | Equifax][EQU] (no pin, lift the freeze by logging in, calling, or writing)
+
 You can also enroll by phone:
 
 * TransUnion: 1-888-909-8872
 * Experian: 1-888-397-3742
 * Equifax: 1-800-349-9960
+
 Should you also sign up for the free credit monitoring that T-Mobile or other companies provide? I don’t recommend it. It’s a marketing opportunity for the service providers, and not much else.
 
 [TU]: https://www.transunion.com/credit-freeze
