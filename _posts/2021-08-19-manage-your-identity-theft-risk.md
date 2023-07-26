@@ -20,9 +20,10 @@ categories: useful
 [Security Freeze Center at Experian][EXP] (5-10 digits, you can pick)
 [Credit Report Services | Equifax][EQU] (no pin, lift the freeze by logging in, calling, or writing)
 You can also enroll by phone:
-[*] TransUnion: 1-888-909-8872
-[*] Experian: 1-888-397-3742
-[*] Equifax: 1-800-349-9960
+
+  * TransUnion: 1-888-909-8872
+  * Experian: 1-888-397-3742
+  * Equifax: 1-800-349-9960
 
 3. Double check that you have the necessary passwords and PINs recorded. You will need them when you want to apply for credit in the future - unfreezing the credit report will require this PIN. Mortgage applications, new credit cards, car loans, and even job applications can require a credit check, which won’t be permitted by the bureaus unless you provide your PIN.
 
