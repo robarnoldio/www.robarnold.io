@@ -21,9 +21,9 @@ categories: useful
 
 ### The links you'll need
 
-* [Credit Freeze | Freeze My Credit | TransUnion][TU] (exactly 6 digits, you pick)
-* [Security Freeze Center at Experian][EXP] (5-10 digits, you can pick)
-* [Credit Report Services | Equifax][EQU] (no pin, lift the freeze by logging in, calling, or writing)
+* [TransUnion][TU] (exactly 6 digits, you pick)
+* [Experian][EXP] (5-10 digits, you can pick)
+* [Equifax][EQU] (no pin, lift the freeze by logging in, calling, or writing)
 
 You can also enroll by phone:
 
