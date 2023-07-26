@@ -16,11 +16,9 @@ categories: useful
 1. Plan where you will store and protect your credit freeze PIN and records. You could print them and store in a safe, or use an online password safe if you prefer. When you want to apply for credit in the future, you will need to access this PIN to do it, so plan ahead.
 
 2. For each of the three credit bureaus, use their online tool to request a credit freeze. Equifax and Transunion require you to create an account. I recommend you use a personal email address from a trusted provider such as Gmail or Outlook.com for this. You’ll provide your SSN and some amount of address history.
-
-* [Credit Freeze | Freeze My Credit | TransUnion][TU] (exactly 6 digits, you pick)
-* [Security Freeze Center at Experian][EXP] (5-10 digits, you can pick)
-* [Credit Report Services | Equifax][EQU] (no pin, lift the freeze by logging in, calling, or writing)
-
+[Credit Freeze | Freeze My Credit | TransUnion][TU] (exactly 6 digits, you pick)
+[Security Freeze Center at Experian][EXP] (5-10 digits, you can pick)
+[Credit Report Services | Equifax][EQU] (no pin, lift the freeze by logging in, calling, or writing)
 You can also enroll by phone:
 
 * TransUnion: 1-888-909-8872
