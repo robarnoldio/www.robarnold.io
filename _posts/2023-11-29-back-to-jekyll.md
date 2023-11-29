@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Back to Jekyll"
-date:   2023-11-29 16:00:00 -0600
+date:   2023-11-29 12:00:00 -0600
 categories: useful
 ---
 
@@ -23,6 +23,7 @@ Stay tuned for some updates.
 * go to source control and commit (with a spicy message)
 * save all if necessary
 * smash the sync changes button
+* push commits with the little up arrow in the lower left
 
 ## gotchas
 
