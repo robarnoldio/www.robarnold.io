@@ -23,3 +23,8 @@ Stay tuned for some updates.
 * go to source control and commit (with a spicy message)
 * save all if necessary
 * smash the sync changes button
+
+## gotchas
+
+* file has to be .md extension
+* timestamp in the frontmatter is relevant for visibility of the post
