@@ -13,6 +13,4 @@ or at least think you know.
 each of the switches to the commands. Now there's little reason not to
 understand before you type that command in your shell.
 
-
 [link]: http://explainshell.com/explain?cmd=netstat+-an
-[link2]: http://explainshell.com/explain?cmd=netstat+-an+|+grep+1337
