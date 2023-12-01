@@ -46,7 +46,7 @@ Two caveats about using this approach:
 
 ### Level 3: Warp client with a free Cloudflare account and teams
 
-Let's say you crave control over the precise categories of sites to block. Or that you need a log of actions taken to protect your network. Or that you need to fine tune the protection of the Warp client based on who's using it. You can do all those things by signing up (for free) for a Cloudflare account.
+Let's say you crave control over the precise categories of sites to block. Or that you need a log of actions taken to protect your network. Or that you need to fine tune the protection of the [Warp client][warpdesktop] based on who's using it. You can do all those things by signing up (for free) for a Cloudflare account.
 
 Cloudflare generously provides almost all the features their enterprise customers pay for to everyone, for no cost. To access this, you do need to [register as a customer][signup].
 
