@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Improve your home network security for free"
-date:   2023-12=01 13:00:00 -0600
+date:   2023-12-01 13:00:00 -0600
 categories: free
 ---
 
