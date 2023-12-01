@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Get you a free M365 developer tenant"
-date:   2032-11-29 13:00:00 -0600
+date:   2023-11-29 13:00:00 -0600
 categories: free
 ---
 

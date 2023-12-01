@@ -11,12 +11,12 @@ Just a post to make sure my blogging workflow is still functioning. I want to po
 
 Stay tuned for some updates.
 
-## kind of a workflow
+## Kind of a workflow
 
-* open the folder for the site in VScode
+* open the folder for the site in VS Code
 * create a new file under _posts
-* copy some frontmatter from one of the other posts and tweak the dates (I wish this could be easier)
-* barf out some content in markdown format
+* copy some front matter from one of the other posts and tweak the dates (I wish this could be easier)
+* barf out some content in Markdown format
 * save the file locally
 * fix stuff that the markdown lint complains about
 * probably save it again
@@ -28,4 +28,4 @@ Stay tuned for some updates.
 ## gotchas
 
 * file has to be .md extension
-* timestamp in the frontmatter is relevant for visibility of the post
+* timestamp in the front matter is relevant for visibility of the post
