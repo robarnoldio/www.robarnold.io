@@ -50,7 +50,7 @@ Let's say you crave control over the precise categories of sites to block. Or th
 
 Cloudflare generously provides almost all the features their enterprise customers pay for to everyone, for no cost. To access this, you do need to [register as a customer][signup].
 
-![screenshot](i/cloudflarepricing.png)
+![screenshot](/i/cloudflarepricing.png)
 
 When you do this, you can use *a lot more features* than most home users will have a need for. To help you imagine that, here's a short list of things I do with my account:
 
